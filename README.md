@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @dauqu
-- 👀 I’m interested in development of software 
-- 📫 How to reach me info@dauqu.com
+# Dauqu
 
-<!---
-dauqu/dauqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Dauqu](https://img.shields.io/badge/Dauqu-blue)
+
+Dauqu is the organization run by Harsh Singh, a 19-year-old developer from Delhi, India with a passion for programming and technology. I have experience with a variety of programming languages, and am always eager to learn more.
+
+## Skills
+- Proficient in multiple programming languages including C++, Java and Python.
+- Strong understanding of web development technologies such as HTML, CSS, and JavaScript.
+- Experience with database management and SQL.
+- Familiar with version control systems such as Git.
+
+## Projects
+You can find some of my projects on my [Github profile](https://github.com/Dauqu) 
+
+## Contact
+You can contact me by emailing at [harshsingh@email.com](harshsingh@email.com) or by visiting my [LinkedIn](https://www.linkedin.com/in/harshsingh/) profile.
+
+## Follow us
+Follow us on [Github](https://github.com/Dauqu) to stay updated on our latest projects and contributions.
