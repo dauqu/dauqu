@@ -14,7 +14,7 @@ Dauqu is the organization run by Harsh Singh, a 19-year-old developer from Delhi
 You can find some of my projects on my [Github profile](https://github.com/dauqu) 
 
 ## Contact
-You can contact me by emailing at [info@dauqu.com](info@dauqu.com) or by visiting my [LinkedIn]([https://www.linkedin.com/in/harshsingh/](https://www.linkedin.com/in/harsh-singh-7a89791a9/)) profile.
+You can contact me by emailing at [info@dauqu.com](info@dauqu.com) or by visiting my [LinkedIn](https://www.linkedin.com/in/harsh-singh-7a89791a9/) profile.
 
 ## Follow us
-Follow us on [Github](https://github.com/Dauqu) to stay updated on our latest projects and contributions.
+Follow us on [Github](https://github.com/dauqu) to stay updated on our latest projects and contributions.
