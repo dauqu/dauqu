@@ -2,7 +2,7 @@
 
 ![Dauqu](https://img.shields.io/badge/Dauqu-blue)
 
-Dauqu is the organization run by Harsh Singh, a 19-year-old developer from Delhi, India with a passion for programming and technology. I have experience with a variety of programming languages, and am always eager to learn more.
+This is Rishu Singh full stack developer from Delhi, India with a passion for programming and technology. I have experience with a variety of programming languages, and am always eager to learn more.
 
 ## Skills
 - Proficient in multiple programming languages including C++, Java and Python.
