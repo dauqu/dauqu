@@ -2,7 +2,22 @@
 
 ![Dauqu](https://img.shields.io/badge/Dauqu-blue)
 
-This is Rishu Singh full stack developer from Delhi, India with a passion for programming and technology. I have experience with a variety of programming languages, and am always eager to learn more.
+👋 Hello! I'm Rishu Singh, a seasoned web and app developer with 7 years of industry experience. 🖥️💻
+
+🌐 Throughout my career, I have successfully delivered numerous projects, ranging from responsive web applications to feature-rich mobile apps. My expertise lies in front-end and back-end development, along with proficiency in various programming languages, frameworks, and tools.
+
+🔨 I am skilled in HTML, CSS, JavaScript, and have hands-on experience with popular front-end frameworks such as React and Angular. On the back-end, I specialize in server-side programming using Node.js and PHP, working with databases like MySQL and MongoDB.
+
+📱 Additionally, I have a strong background in mobile app development, having built applications for iOS and Android using technologies like Flutter and React Native. I am adept at creating intuitive user interfaces and ensuring seamless performance across different platforms.
+
+🚀 As a detail-oriented developer, I am committed to delivering high-quality code, following best practices, and staying updated with the latest industry trends and technologies. I thrive in collaborative environments and enjoy working closely with cross-functional teams to achieve project goals.
+
+📚 Apart from development, I have a keen interest in continuous learning and personal growth. I am always eager to expand my knowledge and explore new technologies to enhance my skill set.
+
+🌟 Feel free to explore my GitHub repositories to get a glimpse of my work. Let's connect and collaborate on exciting projects!
+
+✉️ You can reach me at info@harshaweb.com
+
 
 ## Skills
 - Proficient in multiple programming languages including C++, Java and Python.
