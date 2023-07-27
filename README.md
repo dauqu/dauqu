@@ -2,7 +2,7 @@
 
 ![Dauqu](https://img.shields.io/badge/Dauqu-blue)
 
-👋 Hello! I'm Harsh Singh, a seasoned web and app developer with 5 years of industry experience. 🖥️💻
+👋 Hello! I'm Rishu Singh, a seasoned web and app developer with 5 years of industry experience. 🖥️💻
 
 🌐 Throughout my career, I have successfully delivered numerous projects, ranging from responsive web applications to feature-rich mobile apps. My expertise lies in front-end and back-end development, along with proficiency in various programming languages, frameworks, and tools.
 
